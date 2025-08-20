@@ -1,6 +1,8 @@
 ## 🔍 Search Engine Recommendation System
 A personalized search engine that leverages Natural Language Processing (NLP) to provide intelligent product and content recommendations based on user queries. Built using Streamlit, this tool interprets user intent to deliver more relevant search results.
 
+<img width="916" height="381" alt="image" src="https://github.com/user-attachments/assets/7122bf57-73e4-48d8-9d99-25c7cd853a9d" />
+
 ## 📌 Project Overview
 The system improves traditional keyword-based search by using semantic understanding of user queries. It’s ideal for e-commerce, content platforms, or information retrieval tools where enhancing the user experience through better recommendations is critical.
 
